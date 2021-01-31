@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "//jaeim.github.io/movie_app_2021/static/js/main.bdbcd59b.chunk.js",
-    "main.js.map": "//jaeim.github.io/movie_app_2021/static/js/main.bdbcd59b.chunk.js.map",
-    "runtime-main.js": "//jaeim.github.io/movie_app_2021/static/js/runtime-main.6595dc36.js",
-    "runtime-main.js.map": "//jaeim.github.io/movie_app_2021/static/js/runtime-main.6595dc36.js.map",
-    "static/js/2.d5558146.chunk.js": "//jaeim.github.io/movie_app_2021/static/js/2.d5558146.chunk.js",
-    "static/js/2.d5558146.chunk.js.map": "//jaeim.github.io/movie_app_2021/static/js/2.d5558146.chunk.js.map",
-    "index.html": "//jaeim.github.io/movie_app_2021/index.html",
-    "static/js/2.d5558146.chunk.js.LICENSE.txt": "//jaeim.github.io/movie_app_2021/static/js/2.d5558146.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app_2021/static/css/main.841bff23.chunk.css",
+    "main.js": "/movie_app_2021/static/js/main.c297a2b8.chunk.js",
+    "main.js.map": "/movie_app_2021/static/js/main.c297a2b8.chunk.js.map",
+    "runtime-main.js": "/movie_app_2021/static/js/runtime-main.53bd6c70.js",
+    "runtime-main.js.map": "/movie_app_2021/static/js/runtime-main.53bd6c70.js.map",
+    "static/js/2.d18f8d40.chunk.js": "/movie_app_2021/static/js/2.d18f8d40.chunk.js",
+    "static/js/2.d18f8d40.chunk.js.map": "/movie_app_2021/static/js/2.d18f8d40.chunk.js.map",
+    "index.html": "/movie_app_2021/index.html",
+    "static/css/main.841bff23.chunk.css.map": "/movie_app_2021/static/css/main.841bff23.chunk.css.map",
+    "static/js/2.d18f8d40.chunk.js.LICENSE.txt": "/movie_app_2021/static/js/2.d18f8d40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6595dc36.js",
-    "static/js/2.d5558146.chunk.js",
-    "static/js/main.bdbcd59b.chunk.js"
+    "static/js/runtime-main.53bd6c70.js",
+    "static/js/2.d18f8d40.chunk.js",
+    "static/css/main.841bff23.chunk.css",
+    "static/js/main.c297a2b8.chunk.js"
   ]
 }
