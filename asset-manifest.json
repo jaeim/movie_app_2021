@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//jaeim.github.io/movie_app_2021/static/css/main.e8f4de40.chunk.css",
+    "main.js": "//jaeim.github.io/movie_app_2021/static/js/main.b3daf688.chunk.js",
+    "main.js.map": "//jaeim.github.io/movie_app_2021/static/js/main.b3daf688.chunk.js.map",
+    "runtime-main.js": "//jaeim.github.io/movie_app_2021/static/js/runtime-main.6595dc36.js",
+    "runtime-main.js.map": "//jaeim.github.io/movie_app_2021/static/js/runtime-main.6595dc36.js.map",
+    "static/js/2.915a66f4.chunk.js": "//jaeim.github.io/movie_app_2021/static/js/2.915a66f4.chunk.js",
+    "static/js/2.915a66f4.chunk.js.map": "//jaeim.github.io/movie_app_2021/static/js/2.915a66f4.chunk.js.map",
+    "index.html": "//jaeim.github.io/movie_app_2021/index.html",
+    "static/css/main.e8f4de40.chunk.css.map": "//jaeim.github.io/movie_app_2021/static/css/main.e8f4de40.chunk.css.map",
+    "static/js/2.915a66f4.chunk.js.LICENSE.txt": "//jaeim.github.io/movie_app_2021/static/js/2.915a66f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6595dc36.js",
+    "static/js/2.915a66f4.chunk.js",
+    "static/css/main.e8f4de40.chunk.css",
+    "static/js/main.b3daf688.chunk.js"
+  ]
+}
